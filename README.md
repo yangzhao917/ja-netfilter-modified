@@ -1,4 +1,4 @@
-# [ja-netfilter-modified](https://github.com/v-JiangNan/ja-netfilter-modified)
+# [ja-netfilter-modified](https://github.com/yangzhao917/ja-netfilter-modified)
 
 ---
 
@@ -29,7 +29,7 @@ ja-netfilter是由知了大佬开发的Java代理工具，可用于激活JetBrai
 ## 使用说明
 
 1. 安装好某JetBrains系软件，并关闭。
-2. 下载本仓库[Releases](https://github.com/v-JiangNan/ja-netfilter-modified/releases)中的文件，并解压放到自定义目录下。
+2. 下载本仓库[Releases](https://github.com/yangzhao917/ja-netfilter-modified/releases)中的文件，并解压放到自定义目录下。
 3. 打开scripts目录，若之前使用过ja-netfilter，建议先运行**uninstall-all-users.vbs** (Windows)或**uninstall.sh** (Linux)，再运行**install-current-user.vbs** (Windows)或**install.sh** (Linux)。
 4. 打开软件，选择Activation code激活方式，复制**Activation code.txt**中的激活码，完成激活。
 
